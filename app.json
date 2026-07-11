@@ -1,0 +1,44 @@
+{
+  "expo": {
+    "name": "Streakly",
+    "slug": "streakly",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "newArchEnabled": false,
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.francescofurioso.streakly",
+      "infoPlist": {
+        "ITSAppUsesNonExemptEncryption": false
+      },
+      "buildNumber": "1"
+    },
+    "android": {
+      "package": "com.francescofurioso.streakly"
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single"
+    },
+    "icon": "https://appspawn-gateway-production.up.railway.app/v1/assets/35ab1671-5449-4a2c-861e-de587173f499/icon-1783806711259.png",
+    "owner": "frafuri",
+    "extra": {
+      "eas": {
+        "projectId": "ef41d170-04c3-421b-b2af-d6d5ab4c07e0"
+      },
+      "vibestudio": {
+        "proxy": "https://appspawn-gateway-production.up.railway.app/v1/app-proxy/35ab1671-5449-4a2c-861e-de587173f499",
+        "key": "b6c23adca64fdcef1ff5f360cad7c1748492c9d6"
+      }
+    },
+    "updates": {
+      "url": "https://u.expo.dev/ef41d170-04c3-421b-b2af-d6d5ab4c07e0",
+      "checkAutomatically": "ON_LOAD",
+      "fallbackToCacheTimeout": 0
+    },
+    "runtimeVersion": {
+      "policy": "fingerprint"
+    }
+  }
+}

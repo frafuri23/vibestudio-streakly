@@ -1,0 +1,8 @@
+{
+  "steps": [
+    { "expect": "Streakly" },
+    { "expect": "Drink Water" },
+    { "tap": "Drink Water" },
+    { "expect": "Current" }
+  ]
+}
